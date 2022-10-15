@@ -1,0 +1,28 @@
+[
+  {
+    "id": "3078fa2a-4186-4e5d-962a-522c36cc3e08",
+    "name": "Pizza de calabresa 123",
+    "url": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-de-chocolate-730x449.jpg",
+    "description": "Deliciosa pizza de chocolate com queijo .....",
+    "price": 32.5,
+    "ingredients": [
+      "Tomate",
+      "Cebola",
+      "Queijo",
+      "Chocolate"
+    ]
+  },
+  {
+    "id": "4ed5f6fc-8b69-486b-90fd-06dbd3645934",
+    "name": "Pizza de chocolate 123",
+    "url": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-de-chocolate-730x449.jpg",
+    "description": "Deliciosa pizza de chocolate com queijo .....",
+    "price": 32.5,
+    "ingredients": [
+      "Tomate",
+      "Cebola",
+      "Queijo",
+      "Chocolate"
+    ]
+  }
+]
